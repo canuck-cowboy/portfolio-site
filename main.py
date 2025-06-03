@@ -256,6 +256,8 @@ st.write(texts["intro"])
 st.markdown("######")
 
 # === SKILLS SECTION ===
+# Horizontal divider
+st.markdown("---")
 st.header(texts["skills_header"], anchor=False)  # Header for skills
 
 # Create tabs for each skill category (translated categories and skill names)
