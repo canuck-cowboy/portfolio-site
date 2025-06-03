@@ -13,7 +13,8 @@ import base64
 # - page_icon sets the favicon (small icon in the browser tab)
 st.set_page_config(
     page_title="Gareth Nassar | Network Admin",
-    page_icon="🤠"  # Network emoji as icon
+    page_icon="🤠",  # Network emoji as icon
+    initial_sidebar_state='expanded'
 )
 
 # Sidebar language selection (radio buttons with Canadian flag emoji)
