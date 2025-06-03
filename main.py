@@ -14,7 +14,7 @@ import base64
 st.set_page_config(
     page_title="Gareth Nassar | Network Admin",
     page_icon="🤠",  # Network emoji as icon
-    initial_sidebar_state='expanded'
+    initial_sidebar_state='collapsed'
 )
 
 # Sidebar language selection (radio buttons with Canadian flag emoji)
