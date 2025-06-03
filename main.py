@@ -33,7 +33,7 @@ with open(resume_path, 'rb') as pdf_file:
 # English texts grouped in a dictionary for easy use
 english_text = {
     "name": "Gareth Nassar",
-    "job_title": "Network & System Administrator",
+    "job_title": "Network & Systems Administrator",
     "resume_button": "📄 Resume",
     "intro": """
 For me, networking isn't just a vocation—it's a way of seeing the world. 
