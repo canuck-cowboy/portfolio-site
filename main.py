@@ -247,13 +247,13 @@ with col2:
         mime='application/pdf'
     )
 
-st.write("#####")  # Spacer
+st.write("######")  # Spacer
 
 # Introduction text (translated)
 st.write(texts["intro"])
 
 # Vertical spacing
-st.markdown("###")
+st.markdown("######")
 
 # === SKILLS SECTION ===
 st.header(texts["skills_header"], anchor=False)  # Header for skills
