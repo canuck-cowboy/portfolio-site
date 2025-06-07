@@ -121,7 +121,7 @@ french_text = {
     "job_title": "Administrateur Réseau & Systèmes",
     "resume_button": "📄 CV",
     "intro": """
-Pour moi, le réseautage n'est pas seulement une profession — c’est une manière de voir le monde.  
+Pour moi, administrer un réseau n'est pas seulement une profession, c’est une manière de voir le monde.  
 Depuis la configuration de mon premier routeur Wi-Fi à la maison jusqu'à aider mes voisins à résoudre leurs problèmes Internet, j’ai toujours été attiré par le flux des données et les systèmes qui nous relient. 
 
 Je mets la même passion et précision dans chaque projet, qu’il s’agisse d’optimiser un réseau d’entreprise ou de sécuriser un système local. Le réseautage, c’est plus qu’un métier — c’est mon identité.
