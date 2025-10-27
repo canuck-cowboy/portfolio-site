@@ -111,7 +111,7 @@ Networking isn't just what I do—it's who I am.
 “Every good Network Admin should be part scientist, part artist, and part detective.”<br>
 <span style="font-size:0.9em; color:#666;">— Gareth Nassar, 2023</span>
 """,
-    "certification_header": "🎖️ CompTIA Network+",
+    "certification_header": '<a href="https://www.credly.com/badges/8ed85898-e494-4522-b4ba-e7fa4d63bb91/public_url" target="_blank" style="text-decoration:none; color:inherit;">🎖️ CompTIA Network+</a>',
     "contact_footer": "📬 Contact: garethnassar@gmail.com | [LinkedIn](https://www.linkedin.com/in/canuckcowboy/) | [GitHub](https://github.com/canuck-cowboy)"
 }
 
@@ -195,7 +195,7 @@ Je mets la même passion et précision dans chaque projet, qu’il s’agisse d�
 « Tout bon administrateur réseau devrait être en partie scientifique, en partie artiste, et en partie détective. »<br>
 <span style="font-size:0.9em; color:#666;">— Gareth Nassar, 2023</span>
 """,
-    "certification_header": "🎖️ CompTIA Network+",
+    "certification_header": '<a href="https://www.credly.com/badges/8ed85898-e494-4522-b4ba-e7fa4d63bb91/public_url" target="_blank" style="text-decoration:none; color:inherit;">🎖️ CompTIA Network+</a>',
     "contact_footer": "📬 Contact : garethnassar@gmail.com | [LinkedIn](https://www.linkedin.com/in/canuckcowboy/) | [GitHub](https://github.com/canuck-cowboy)"
 }
 
