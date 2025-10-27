@@ -47,9 +47,9 @@ Networking isn't just what I do—it's who I am.
         "🌐 Networking": {
             "Network Monitoring": 95,
             "Network Troubleshooting": 85,
+            "Network Security": 85,
             "Network Design": 80,
-            "Network Security": 75,
-            "Network Automation": 85,
+            "Network Automation": 75,
             "Wireless Networking": 70,
             "Routing & Switching": 90
         },
@@ -67,7 +67,7 @@ Networking isn't just what I do—it's who I am.
             "VPNs & Remote Access Security": 85,
             "Intrusion Detection & Prevention Systems": 65,
             "Network Access Control": 85,
-            "SEIM": 60,
+            "SEIM/Log Analysis": 80,
             "Cryptography & PKI": 60,
             "Penetration Testing": 50,
         },
@@ -83,9 +83,9 @@ Networking isn't just what I do—it's who I am.
         "🧰 Tools & Utilities": {
             "Cisco Packet Tracer": 98,
             "Wireshark": 96,
+            "Nmap": 92,
             "SolarWinds": 80,
             "Nagios": 65,
-            "Nmap": 73,
             "Ansible": 80,
             "PRTG": 65,
         }
@@ -131,9 +131,9 @@ Je mets la même passion et précision dans chaque projet, qu’il s’agisse d�
         "🌐 Réseautage": {
             "Surveillance réseau": 95,
             "Dépannage réseau": 85,
+            "Sécurité réseau": 85,
             "Conception réseau": 80,
-            "Sécurité réseau": 75,
-            "Automatisation réseau": 85,
+            "Automatisation réseau": 75,
             "Réseau sans fil": 70,
             "Routage et commutation": 90
         },
@@ -151,7 +151,7 @@ Je mets la même passion et précision dans chaque projet, qu’il s’agisse d�
             "VPN & sécurité accès distant": 85,
             "Systèmes de détection et prévention d'intrusion": 65,
             "Contrôle d'accès réseau": 85,
-            "SEIM": 60,
+            "SEIM/Log Analysis": 80,
             "Cryptographie & PKI": 60,
             "Tests d’intrusion": 50,
         },
@@ -167,9 +167,9 @@ Je mets la même passion et précision dans chaque projet, qu’il s’agisse d�
         "🧰 Outils & Utilitaires": {
             "Cisco Packet Tracer": 98,
             "Wireshark": 96,
+            "Nmap": 92,
             "SolarWinds": 80,
             "Nagios": 65,
-            "Nmap": 73,
             "Ansible": 80,
             "PRTG": 65,
         }
