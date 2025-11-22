@@ -12,7 +12,7 @@ import base64
 # - page_title sets the title shown in the browser tab
 # - page_icon sets the favicon (small icon in the browser tab)
 st.set_page_config(
-    page_title="Gareth Nassar | Network Admin",
+    page_title="Abdul Salam Nassar | Network Admin",
     page_icon="🤠",  # Network emoji as icon
     initial_sidebar_state='collapsed'
 )
@@ -32,7 +32,7 @@ with open(resume_path, 'rb') as pdf_file:
 
 # English texts grouped in a dictionary for easy use
 english_text = {
-    "name": "Gareth Nassar",
+    "name": "Abdul Salam Nassar",
     "job_title": "Network & Systems Administrator",
     "resume_button": "📄 Resume",
     "intro": """
@@ -117,7 +117,7 @@ Networking isn't just what I do—it's who I am.
 
 # French translations corresponding to the above English content
 french_text = {
-    "name": "Gareth Nassar",
+    "name": "Abdul Salam Nassar",
     "job_title": "Administrateur Réseau & Systèmes",
     "resume_button": "📄 CV",
     "intro": """
